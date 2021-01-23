@@ -1,0 +1,13 @@
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\baomingadmin.Access.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\baomingadmin.Access.pdb
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\baomingadmin.Model.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\baomingadmin.Model.pdb
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\obj\Debug\baomingadmin.Access.csprojAssemblyReference.cache
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\obj\Debug\baomingadmin.Access.csproj.CoreCompileInputs.cache
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\obj\Debug\baomingadmin.Access.csproj.CopyComplete
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\obj\Debug\baomingadmin.Access.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\obj\Debug\baomingadmin.Access.pdb
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\Careysoft.Basic.Public.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\Newtonsoft.Json.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\Careysoft.Basic.Public.pdb
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Access\bin\Debug\Newtonsoft.Json.xml

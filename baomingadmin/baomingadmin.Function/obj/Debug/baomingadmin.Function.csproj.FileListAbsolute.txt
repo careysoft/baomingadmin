@@ -1,0 +1,6 @@
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\bin\Debug\baomingadmin.Function.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\bin\Debug\baomingadmin.Function.pdb
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\obj\Debug\baomingadmin.Function.csprojAssemblyReference.cache
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\obj\Debug\baomingadmin.Function.csproj.CoreCompileInputs.cache
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\obj\Debug\baomingadmin.Function.dll
+D:\Work\poplauWIN7\56baoming\program\admin\baomingadmin\baomingadmin.Function\obj\Debug\baomingadmin.Function.pdb
